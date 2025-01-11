@@ -1,2 +1,5 @@
 git checkout -b main
 git push -u origin main
+git add package.json
+git commit -m "Add package.json"
+git push origin main
